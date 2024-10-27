@@ -19,10 +19,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import java.sql.*;
 
-/**
- *
- * @author sonnt-local hand-some
- */
+
 public class ProductionPlanCreateController extends HttpServlet {
    
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
